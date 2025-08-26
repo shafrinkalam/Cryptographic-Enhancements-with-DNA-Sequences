@@ -1,1 +1,1 @@
-#Implemented DNA encoding with Diffie-Hellman Key Exchange for secure data transmission, focusing on key generation and decryption processes to prevent data theft and loss.
+ # Implemented DNA encoding with Diffie-Hellman Key Exchange for secure data transmission, focusing on key generation and decryption processes to prevent data theft and loss.
